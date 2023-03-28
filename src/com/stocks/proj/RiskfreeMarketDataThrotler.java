@@ -1,6 +1,6 @@
 package com.stocks.proj;
 /**/
-
+/**/
 import yahoofinance.Stock;
 import yahoofinance.YahooFinance;
 import yahoofinance.histquotes.HistoricalQuote;
